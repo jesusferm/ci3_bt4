@@ -1,0 +1,20 @@
+::selection {
+	background-color: #E13300;
+	color: white;
+}
+
+::-moz-selection {
+	background-color: #E13300;
+	color: white;
+}
+
+/*footer*/
+footer {
+	background-color: #263238;
+	padding: 10px 0px 25px 0px;
+}
+
+footer p {
+	font-size: 13px;
+	color: #CCC;
+}
